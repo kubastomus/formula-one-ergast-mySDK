@@ -16,7 +16,6 @@ Add the dependency:
 </dependency>
 ```
 
-
 ## Usage
 
 You have to initialize Ergast object:
