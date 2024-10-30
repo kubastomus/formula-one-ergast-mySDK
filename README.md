@@ -10,9 +10,9 @@ Add the dependency:
 
 ```xml
 <dependency>
-    <groupId>pl.kubastomus.formula.ergast</groupId>
+    <groupId>com.github.kubastomus</groupId>
     <artifactId>formula-one-ergast-mySDK</artifactId>
-    <version>0.1.1</version>
+    <version>1.1.1</version>
 </dependency>
 ```
 
