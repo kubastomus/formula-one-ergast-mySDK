@@ -12,9 +12,10 @@ Add the dependency:
 <dependency>
     <groupId>com.github.kubastomus</groupId>
     <artifactId>formula-one-ergast-mySDK</artifactId>
-    <version>1.1.1</version>
+    <version>1.1.2</version>
 </dependency>
 ```
+[![](https://jitpack.io/v/kubastomus/formula-one-ergast-mySDK.svg)](https://jitpack.io/#kubastomus/formula-one-ergast-mySDK)
 
 ## Usage
 
